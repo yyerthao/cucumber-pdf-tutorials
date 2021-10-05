@@ -7,5 +7,5 @@ Feature: Adding
     Examples:
     | input | output |
     |  2+2  | 4     |
-    |  98+1 | 99    |
+    |  40+2 | 42    |
 
